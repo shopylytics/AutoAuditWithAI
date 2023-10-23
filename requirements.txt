@@ -4,3 +4,5 @@ wtforms~=3.1.0
 ultralytics~=8.0.199
 opencv-contrib-python-headless
 werkzeug~=3.0.0
+streamlit==0.81.1
+streamlit_webrtc==0.20.0
