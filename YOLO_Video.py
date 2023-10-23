@@ -87,4 +87,4 @@ def video_detection(path_x):
         #if cv2.waitKey(1) & 0xFF==ord('1'):
             #break
     #out.release()
-cv2.destroyAllWindows()
+#cv2.destroyAllWindows()
